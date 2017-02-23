@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TaskScheduler</string>
+    <string name="starts">Starts</string>
+    <string name="ends">Ends</string>
+    <string name="progress">Progress</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="status">Status</string>
+    <string name="note">Note</string>
+    <string name="file_attachment_icon">file attachment icon</string>
+    <string name="done">Done</string>
+    <string name="_01_jan_2000">01 JAN 2000</string>
+    <string name="open">Open</string>
+    <string name="closed">Closed</string>
+
+    <string name="total_day_month_format">%1$dY %2$dM %3$dD</string>
+    <string name="total_hour_minute_format">%1$dh %2$dm</string>
+    <string name="percentFormat">%1$f%%</string>
+</resources>
